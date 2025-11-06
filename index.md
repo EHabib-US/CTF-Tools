@@ -1,6 +1,6 @@
 # CTF Tools Index
 
-A curated, organized index of useful CTF / offensive security tools and references. All links point to upstream sites or project pages. (All video links have been removed.)
+A curated, organized index of useful CTF / offensive security tools and references.
 
 ---
 
